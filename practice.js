@@ -1,4 +1,4 @@
-console.log("Hello world");
+
 console.log(25 + 45);
 
 function sumNum(x,y) {
